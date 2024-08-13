@@ -1,0 +1,86 @@
+Melanie Martinez 
+album : K12 
+album duration : 46, 27
+
+mitski 
+ep : This Is Where We Fall
+album duration : 12, 15
+
+marina and the diamonds 
+album : elektra heart
+album duration : 47, 59
+
+lana del ray
+single : Born to die 
+duration: 4:46
+single : National Anthem 
+duration : 3:51
+
+laufey 
+single : falling behind 
+duration : 2:53
+single : From the start 
+duration : 2:49
+
+grent perez 
+single : 
+duration :
+single : 
+duration : 
+
+NUMBER1
+"artistAlias"
+Melanie Martinez
+"artistName"
+Melanie
+"artistSurname"
+Martinez
+"artistAge"
+29,
+"artistImg"
+[err]
+"artistBiography"
+ Melanie Martinez, born on April 28, 1995, is an American singer, songwriter, and actress known for her distinctive blend of dark pop and indie sounds. She first rose to fame on The Voice in 2012 and later gained widespread recognition with her debut album Cry Baby (2015), which introduced her alter ego and explored themes of childhood and trauma. Martinez continued her creative journey with the concept album K-12 (2019), accompanied by a feature film she directed, and Portals (2023), which delves into themes of transformation. Her unique visual and musical style has made her a significant figure in contemporary music.,
+"artistSongCount"
+13
+"artistEthnicity"
+Hispanic    
+"artistCountry"
+United States of America
+"artistGenre"
+Pop
+"artistDebut"
+ 2014/02/09
+ "artistStatus"
+active
+"artistDOB"
+1995/04/28
+
+NUMBER2
+"artistAlias"
+Melanie Martinez
+"artistName"
+Melanie
+"artistSurname"
+Martinez
+"artistAge"
+29,
+"artistImg"
+[err]
+"artistBiography"
+ Melanie Martinez, born on April 28, 1995, is an American singer, songwriter, and actress known for her distinctive blend of dark pop and indie sounds. She first rose to fame on The Voice in 2012 and later gained widespread recognition with her debut album Cry Baby (2015), which introduced her alter ego and explored themes of childhood and trauma. Martinez continued her creative journey with the concept album K-12 (2019), accompanied by a feature film she directed, and Portals (2023), which delves into themes of transformation. Her unique visual and musical style has made her a significant figure in contemporary music.,
+"artistSongCount"
+13
+"artistEthnicity"
+Hispanic    
+"artistCountry"
+United States of America
+"artistGenre"
+Pop
+"artistDebut"
+ 2014/02/09
+ "artistStatus"
+active
+"artistDOB"
+1995/04/28
+
