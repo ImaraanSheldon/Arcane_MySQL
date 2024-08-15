@@ -58,29 +58,113 @@ active
 
 NUMBER2
 "artistAlias"
-Melanie Martinez
+Mitski
 "artistName"
-Melanie
+Mitsuki  
 "artistSurname"
-Martinez
+Miyawaki
 "artistAge"
-29,
+34,
 "artistImg"
 [err]
 "artistBiography"
- Melanie Martinez, born on April 28, 1995, is an American singer, songwriter, and actress known for her distinctive blend of dark pop and indie sounds. She first rose to fame on The Voice in 2012 and later gained widespread recognition with her debut album Cry Baby (2015), which introduced her alter ego and explored themes of childhood and trauma. Martinez continued her creative journey with the concept album K-12 (2019), accompanied by a feature film she directed, and Portals (2023), which delves into themes of transformation. Her unique visual and musical style has made her a significant figure in contemporary music.,
+ Mitski, an American singer-songwriter born on September 27, 1990, gained recognition with her albums Bury Me at Makeout Creek (2014) and Be the Cowboy (2018). She began her career with self-released albums Lush (2012) while studying at Purchase College. Signed to Dead Oceans, she achieved notable success with her 2022 album Laurel Hell and received an Academy Award nomination for co-writing "This Is a Life" for Everything Everywhere All at Once. Her 2023 album, The Land Is Inhospitable and So Are We, features her first Billboard Hot 100 hit, "My Love Mine All Mine."
 "artistSongCount"
-13
+6
 "artistEthnicity"
-Hispanic    
+Japanese-American    
 "artistCountry"
 United States of America
 "artistGenre"
-Pop
+Alternative Pop, Indie rock
 "artistDebut"
- 2014/02/09
+ 2012/01/31
  "artistStatus"
 active
 "artistDOB"
-1995/04/28
+1990/09/27
+
+NUMBER3
+"artistAlias"
+Marina and the Diamonds
+"artistName"
+Marina Lambrini   
+"artistSurname"
+Diamandis
+"artistAge"
+38,
+"artistImg"
+[err]
+"artistBiography"
+ Marina Diamandis, known mononymously as Marina (formerly Marina and the Diamonds), is a Greek-Welsh singer-songwriter born on October 10, 1985. She gained prominence in 2009 by placing second in the BBC's Sound of 2010. Her debut album, The Family Jewels (2010), was a UK top 5 hit. Her second album, Electra Heart (2012), was a UK number one and included popular singles like "Primadonna." Her third album, Froot (2015), reached the top 10 in both the UK and US. Her fourth album, Love + Fear (2019), and fifth album, Ancient Dreams in a Modern Land (2021), continued her success.
+"artistSongCount"
+12
+"artistEthnicity"
+Greek-Welsh   
+"artistCountry"
+London, England
+"artistGenre"
+Alternative-Pop, Indie, electric
+"artistDebut"
+ 2010/02/15
+ "artistStatus"
+active
+"artistDOB"
+1985/10/10
+
+NUMBER4
+"artistAlias"
+ Lana Del Rey
+"artistName"
+Elizabeth Woolridge
+"artistSurname"
+Grant
+"artistAge"
+39,
+"artistImg"
+[err]
+"artistBiography"
+Lana Del Rey, born Elizabeth Woolridge Grant on June 21, 1985, is an acclaimed American singer-songwriter known for her cinematic, melancholic music that often references 1950s–1970s Americana. Her breakthrough came in 2011 with the viral hit "Video Games" and her debut major-label album, *Born to Die* (2012), achieved significant success. She has released several acclaimed albums, including *Ultraviolence* (2014), *Norman Fucking Rockwell!* (2019), and *Did You Know That There's a Tunnel Under Ocean Blvd* (2023). Del Rey has received numerous awards and nominations, including MTV, Brit Awards, and Grammy nominations. She is celebrated for her contributions to music and visual media, including soundtracks and a poetry collection.
+"artistSongCount"
+1
+"artistEthnicity"
+Greek-Welsh   
+"artistCountry"
+United States of America
+"artistGenre"
+Alternative-Pop, rock, dream-pop, barouque-pop
+"artistDebut"
+ 2010/01/4
+ "artistStatus"
+active
+"artistDOB"
+1985/6/21
+
+NUMBER5
+"artistAlias"
+ Lana Del Rey
+"artistName"
+Elizabeth Woolridge
+"artistSurname"
+Grant
+"artistAge"
+39,
+"artistImg"
+[err]
+"artistBiography"
+Lana Del Rey, born Elizabeth Woolridge Grant on June 21, 1985, is an acclaimed American singer-songwriter known for her cinematic, melancholic music that often references 1950s–1970s Americana. Her breakthrough came in 2011 with the viral hit "Video Games" and her debut major-label album, *Born to Die* (2012), achieved significant success. She has released several acclaimed albums, including *Ultraviolence* (2014), *Norman Fucking Rockwell!* (2019), and *Did You Know That There's a Tunnel Under Ocean Blvd* (2023). Del Rey has received numerous awards and nominations, including MTV, Brit Awards, and Grammy nominations. She is celebrated for her contributions to music and visual media, including soundtracks and a poetry collection.
+"artistSongCount"
+1
+"artistEthnicity"
+Greek-Welsh   
+"artistCountry"
+United States of America
+"artistGenre"
+Alternative-Pop, rock, dream-pop, barouque-pop
+"artistDebut"
+ 2010/01/4
+ "artistStatus"
+active
+"artistDOB"
+1985/6/21
 
